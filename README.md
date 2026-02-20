@@ -18,8 +18,8 @@ This prevents hallucination and ensures answers come directly from the policy do
 cd ~/projects
 
 # clone (replace with your repo URL)
-git clone https://github.com/sodati2020/A2A_RAG_MCP.git
-cd A2A_RAG_MCP
+git clone https://github.com/sodati2020/RAG_DEMO.git
+cd RAG_DEMO
 # create venv
 python3 -m venv .venv
 
