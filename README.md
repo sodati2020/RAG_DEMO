@@ -23,6 +23,13 @@ cd RAG_DEMO
 # create venv
 python3 -m venv .venv
 
+#Create a .env File
+From the project root:
+touch .env
+Open .env and add:
+OPENAI_API_KEY=your_openai_api_key_here
+
+Replace your_openai_api_key_here with your actual key.
 # activate
 # macOS / Linux
 source .venv/bin/activate
